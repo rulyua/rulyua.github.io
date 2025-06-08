@@ -2,14 +2,14 @@ baseURL = "https://rulyua.github.io"
 languageCode = "en-us"
 title = "rulyua personal blog and CV"
 theme="archie"
-copyright = "© Athul"
+copyright = "© rulyua"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
 	mode="auto"
 	useCDN=false
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = ""
 
 [[params.social]]
 name = "GitHub"
